@@ -17,15 +17,21 @@ h1{
   flex-wrap: wrap;
   justify-content: space-around;
   background-color: #2196F3;
+  margin: 1rem auto;
+  
 }
 
 .gridItem {
   margin-top: 1rem;
   font-size: 8em;
-  width: calc(48.333% - 20px);
+  width: calc(33.333% - 20px);
   margin-bottom: 20px;
   background-color: rgba(255, 255, 255, 0.8);
   border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px 2px;
+}
+a{
+  margin: 50% auto;
 }
 
 @media (max-width: 768px) {
