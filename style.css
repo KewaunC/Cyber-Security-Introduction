@@ -18,10 +18,10 @@ h1{
   color: black;
 }
 
-h1 a{
-  color: black;
-  font-size: 2em;
+a{
+  color: black;  
 }
+
 .gridContainer {
   display: flex;
   flex-wrap: wrap;
