@@ -29,7 +29,6 @@ a{
   background-color: #2196F3;
   margin: 1rem auto;
   border-radius: 10px;
-  
 }
 
 .gridItem {
@@ -43,7 +42,9 @@ a{
   border-radius: 10px;
 
 }
-
+blockquote{
+  overflow: hidden;
+}
 h2{
   font-size: 8em;
 }
